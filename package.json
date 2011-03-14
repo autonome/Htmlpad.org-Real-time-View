@@ -1,0 +1,9 @@
+{
+    "name": "htmlpad-tweaks", 
+    "license": "MPL 1.1/GPL 2.0/LGPL 2.1", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "Htmlpad.org Realtime-view Tweak", 
+    "id": "jid0-pMW4nvHaFRV0hL45Dr1oXVzYAdQ", 
+    "description": "Tweak to htmlpad.org to show a real-time rendering of your changes as you make them."
+}
