@@ -40,7 +40,7 @@ if (pad) {
         viewerframe.src = "data:text/html," + txt;
       }
     }, 200);
-    ace.setUserChangeNotificationCallback(function() {
+    ace.setNotifyDirty(function() {
       viewerframe.src = "data:text/html," + ace.exportText();
     });
   }, false);
